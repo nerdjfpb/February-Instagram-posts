@@ -1,19 +1,3 @@
-// starts with npm init -y
-// express, cors - npm i express cors
-// nodemon, mongodb  - npm i nodemon mongoose -D
-
-// basic server ----- An screenshot
-
-// mongodb connect with mongoose
-
-// create a todo model
-
-// create an endpoint to add there
-
-// create an endpoint to show all the data there
-
-// finally show the result
-
 // importing libraries
 const express = require("express");
 const mongoose = require("mongoose");
